@@ -1,0 +1,19 @@
+#heroButton {
+  background-color: #4262FF;
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none ;
+}
+
+.sectionlist {
+  list-style-type: none;
+  list-style-image: url(/1-Miro/images/check.svg);
+}
